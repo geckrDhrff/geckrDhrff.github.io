@@ -7,7 +7,7 @@ description: "Every failure is leading towards success."
 keyword: "Blog, leon的博客, php , html"
 url: "http://594277937.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/geckrDhrff.github.io.git" # you code repository
+github_repo: "https://github.com/geckrDhrff/geckrDhrff.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -50,9 +50,6 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
@@ -67,9 +64,6 @@ gitalk:
 
 # 统计
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
