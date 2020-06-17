@@ -59,7 +59,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e409c7bab475e4dde6d9                          #生成的clientID
   clientSecret: bc73a8ca89ff09bdea2f7d227d38f15fb5773b99    #生成的clientSecret
-  repo: feckrDhrff.github.io    #仓库名称
+  repe: geckrDhrff.github.io    #仓库名称
   owner: geckrDhrff    #github用户名
   admin: geckrDhrff
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -91,19 +91,4 @@ service-worker: true
 
 
 
-# Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+# Friend
