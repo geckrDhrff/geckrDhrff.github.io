@@ -184,8 +184,6 @@
 
 
 <!-- Google Analytics -->
-{% if site.ga_track_id %}
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JHNZS11KC0"></script>
 <script>
@@ -193,9 +191,8 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', _gaId);
+  gtag('config', 'G-JHNZS11KC0');
 </script>
-{% endif %}
 
 
 <!-- Baidu Tongji -->
