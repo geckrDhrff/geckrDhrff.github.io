@@ -33,3 +33,8 @@ Temporary Items
 
 # debug file
 _site
+/.idea/.gitignore
+/.idea/blog.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
