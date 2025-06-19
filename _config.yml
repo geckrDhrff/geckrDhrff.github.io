@@ -64,7 +64,9 @@ gitalk:
 
 # 统计
 
-
+# Google Analytics
+ga_track_id: 'G-JHNZS11KC0'
+ga_domain: auto
 
 
 
